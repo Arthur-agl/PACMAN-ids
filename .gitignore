@@ -1,0 +1,4 @@
+pacman-ids-venv/*
+*.pyc
+*.pkl
+__pycache__/
